@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshumanv36
+- 👋 Hi, I’m @Anshuman
 - 👀 I’m interested in contributing to open source projects on github
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on backend web development projects
