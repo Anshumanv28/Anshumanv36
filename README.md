@@ -171,7 +171,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanv28" alt="anshumanv28" />
+  <img src="https://github-readme-streak-stats-one-flame.vercel.app/?user=anshumanv28" alt="anshumanv28" />
 </div>
 
 ---
