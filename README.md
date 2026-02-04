@@ -1,33 +1,39 @@
 <h1 align="center">Hi 👋, I'm Anshuman Mishra</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Full-stack & AI engineer building production-ready systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshumanv28&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanv28" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanv28" alt="anshumanv28" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=anshumanv28" alt="anshumanv28" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **A.R.T.E.M.I.S**
+- 🔭 I'm currently building **A.R.T.E.M.I.S** – a multimodal AI agent framework (RAG + tools + memory) designed to integrate with real-world products.
+- 🌱 I'm currently deepening my skills in **LLM systems, distributed backend architectures, and DevOps (Docker, CI/CD, Linux)**.
+- 👯 I'm looking to collaborate on **AI/ML backends, RAG systems, and high-impact full-stack products** (including projects like [Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia)).
+- 👨‍💻 All of my projects live here: [github.com/anshumanv28](https://github.com/anshumanv28)
+- 📝 I write about development, AI, and tooling on [dev.to/anshuman_mishra_v36](https://dev.to/anshuman_mishra_v36)
+- 💬 Ask me about **Node.js, TypeScript, Dart/Flutter, React, backend architecture, and Linux dev workflows**.
+- 📫 Reach me at **anshumanmishra.v.2.8@gmail.com**
+- ⚡ Fun fact: **I talk to my code like it's going to respond someday – still waiting for a `console.log("hi")` back.**
 
-- 🌱 I'm currently learning **React, DevOps, Linux**
+---
 
-- 👯 I'm looking to collaborate on [Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia)
+## 🚀 Featured Work
 
-- 👨‍💻 All of my projects are available at [https://github.com/anshumanv28](https://github.com/anshumanv28)
+- 🧠 **A.R.T.E.M.I.S** – Adaptive multimodal AI agent framework with RAG, tools from YAML/OpenAPI, Qdrant memory, DSPy, LangGraph, Groq, and LiveKit.
+- 🏠 **Property Ganj** – Real-estate platform (full-stack TypeScript, production-style architecture and deployments).
+- 📚 **Study Boards** – Productivity app for organizing learning and tasks, built with a modern TypeScript/React stack.
+- 📄 **Table Reconstruction / OCR** – Document understanding and reconstruction pipelines from my applied AI work.
 
-- 📝 I regularly write articles on [https://dev.to/anshuman_mishra_v36](https://dev.to/anshuman_mishra_v36)
-
-- 💬 Ask me about **Node.js, Dart, Flutter, Linux**
-
-- 📫 How to reach me **anshumanmishra.v.2.8@gmail.com**
-
-- ⚡ Fun fact **I talk to my code like it's going to respond someday!**
+> I’m actively looking for **Backend / Full-stack / AI Engineer** roles and impactful collaborations.
 
 ---
 
@@ -52,7 +58,7 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -78,7 +84,7 @@
   </a>
 </p>
 
-### Backend Development
+### Backend & Languages
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -91,14 +97,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
 
-### Mobile Development
+### Mobile
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -123,7 +129,7 @@
   </a>
 </p>
 
-### Cloud & DevOps
+### Cloud, DevOps & Tools
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -135,11 +141,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
-
-### Tools
-
-<p align="left">
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -152,13 +153,21 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+> If this stays empty for a while, I’ll either wire it up properly or remove the section – shipping code takes priority. 😄
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumanv28&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanv28&layout=compact&langs_count=8"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats-lilac-delta-69.vercel.app/api?username=anshumanv28&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-lilac-delta-69.vercel.app/api/top-langs/?username=anshumanv28&layout=compact&langs_count=8"
+  />
 </div>
 
 <div align="center">
